@@ -1,7 +1,8 @@
 {
-  "name": "counter",
+  "name": "converter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pofigor.github.io/Currency-converter",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
@@ -12,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
     "framer-motion": "^6.3.11",
+    "gh-pages": "^4.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
